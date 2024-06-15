@@ -1,0 +1,332 @@
+[
+    {
+      "id": 209,
+      "display_id": 8,
+      "owner": 1079,
+      "name": "PlayStation 5",
+      "category": "Gaming Console",
+      "characteristics": "Latest model with advanced graphics",
+      "features": "4K HDR, Fast SSD",
+      "brand": "Sony",
+      "sku": [
+        {
+          "id": 248,
+          "selling_price": 499,
+          "max_retail_price": 599,
+          "amount": 50,
+          "unit": "piece",
+          "quantity_in_inventory": 100,
+          "product": 209
+        },
+        {
+          "id": 247,
+          "selling_price": 499,
+          "max_retail_price": 599,
+          "amount": 50,
+          "unit": "piece",
+          "quantity_in_inventory": 100,
+          "product": 209
+        },
+        {
+          "id": 246,
+          "selling_price": 499,
+          "max_retail_price": 599,
+          "amount": 50,
+          "unit": "piece",
+          "quantity_in_inventory": 100,
+          "product": 209
+        }
+      ],
+      "updated_on": "2024-06-24T12:46:41.995873Z",
+      "adding_date": "2024-06-24T12:46:41.995828Z"
+    },
+    {
+      "id": 210,
+      "display_id": 9,
+      "owner": 1080,
+      "name": "Xbox Series X",
+      "category": "Gaming Console",
+      "characteristics": "Next-gen performance",
+      "features": "8K HDR, 1TB SSD",
+      "brand": "Microsoft",
+      "sku": [
+        {
+          "id": 249,
+          "selling_price": 499,
+          "max_retail_price": 599,
+          "amount": 50,
+          "unit": "piece",
+          "quantity_in_inventory": 80,
+          "product": 210
+        },
+        {
+          "id": 250,
+          "selling_price": 499,
+          "max_retail_price": 599,
+          "amount": 50,
+          "unit": "piece",
+          "quantity_in_inventory": 80,
+          "product": 210
+        }
+      ],
+      "updated_on": "2024-06-24T12:47:41.995873Z",
+      "adding_date": "2024-06-24T12:47:41.995828Z"
+    },
+    {
+      "id": 211,
+      "display_id": 10,
+      "owner": 1081,
+      "name": "Nintendo Switch",
+      "category": "Gaming Console",
+      "characteristics": "Portable and versatile",
+      "features": "Handheld mode, TV mode",
+      "brand": "Nintendo",
+      "sku": [
+        {
+          "id": 251,
+          "selling_price": 299,
+          "max_retail_price": 349,
+          "amount": 30,
+          "unit": "piece",
+          "quantity_in_inventory": 150,
+          "product": 211
+        },
+        {
+          "id": 252,
+          "selling_price": 299,
+          "max_retail_price": 349,
+          "amount": 30,
+          "unit": "piece",
+          "quantity_in_inventory": 150,
+          "product": 211
+        }
+      ],
+      "updated_on": "2024-06-24T12:48:41.995873Z",
+      "adding_date": "2024-06-24T12:48:41.995828Z"
+    },
+    {
+      "id": 212,
+      "display_id": 11,
+      "owner": 1082,
+      "name": "Apple iPhone 13",
+      "category": "Smartphone",
+      "characteristics": "Latest model with advanced features",
+      "features": "5G, A15 Bionic chip",
+      "brand": "Apple",
+      "sku": [
+        {
+          "id": 253,
+          "selling_price": 999,
+          "max_retail_price": 1099,
+          "amount": 70,
+          "unit": "piece",
+          "quantity_in_inventory": 50,
+          "product": 212
+        },
+        {
+          "id": 254,
+          "selling_price": 999,
+          "max_retail_price": 1099,
+          "amount": 70,
+          "unit": "piece",
+          "quantity_in_inventory": 50,
+          "product": 212
+        }
+      ],
+      "updated_on": "2024-06-24T12:49:41.995873Z",
+      "adding_date": "2024-06-24T12:49:41.995828Z"
+    },
+    {
+      "id": 213,
+      "display_id": 12,
+      "owner": 1083,
+      "name": "Samsung Galaxy S21",
+      "category": "Smartphone",
+      "characteristics": "High performance and camera quality",
+      "features": "108MP camera, 5G",
+      "brand": "Samsung",
+      "sku": [
+        {
+          "id": 255,
+          "selling_price": 799,
+          "max_retail_price": 899,
+          "amount": 60,
+          "unit": "piece",
+          "quantity_in_inventory": 70,
+          "product": 213
+        },
+        {
+          "id": 256,
+          "selling_price": 799,
+          "max_retail_price": 899,
+          "amount": 60,
+          "unit": "piece",
+          "quantity_in_inventory": 70,
+          "product": 213
+        }
+      ],
+      "updated_on": "2024-06-24T12:50:41.995873Z",
+      "adding_date": "2024-06-24T12:50:41.995828Z"
+    },
+    {
+      "id": 214,
+      "display_id": 13,
+      "owner": 1084,
+      "name": "Dell XPS 13",
+      "category": "Laptop",
+      "characteristics": "Lightweight and powerful",
+      "features": "Intel i7, 16GB RAM",
+      "brand": "Dell",
+      "sku": [
+        {
+          "id": 257,
+          "selling_price": 1299,
+          "max_retail_price": 1399,
+          "amount": 80,
+          "unit": "piece",
+          "quantity_in_inventory": 30,
+          "product": 214
+        },
+        {
+          "id": 258,
+          "selling_price": 1299,
+          "max_retail_price": 1399,
+          "amount": 80,
+          "unit": "piece",
+          "quantity_in_inventory": 30,
+          "product": 214
+        }
+      ],
+      "updated_on": "2024-06-24T12:51:41.995873Z",
+      "adding_date": "2024-06-24T12:51:41.995828Z"
+    },
+    {
+      "id": 215,
+      "display_id": 14,
+      "owner": 1085,
+      "name": "MacBook Air",
+      "category": "Laptop",
+      "characteristics": "Sleek and efficient",
+      "features": "M1 chip, 8GB RAM",
+      "brand": "Apple",
+      "sku": [
+        {
+          "id": 259,
+          "selling_price": 999,
+          "max_retail_price": 1099,
+          "amount": 70,
+          "unit": "piece",
+          "quantity_in_inventory": 40,
+          "product": 215
+        },
+        {
+          "id": 260,
+          "selling_price": 999,
+          "max_retail_price": 1099,
+          "amount": 70,
+          "unit": "piece",
+          "quantity_in_inventory": 40,
+          "product": 215
+        }
+      ],
+      "updated_on": "2024-06-24T12:52:41.995873Z",
+      "adding_date": "2024-06-24T12:52:41.995828Z"
+    },
+    {
+      "id": 216,
+      "display_id": 15,
+      "owner": 1086,
+      "name": "Sony WH-1000XM4",
+      "category": "Headphones",
+      "characteristics": "Noise-cancelling and high fidelity",
+      "features": "30-hour battery life",
+      "brand": "Sony",
+      "sku": [
+        {
+          "id": 261,
+          "selling_price": 349,
+          "max_retail_price": 399,
+          "amount": 40,
+          "unit": "piece",
+          "quantity_in_inventory": 150,
+          "product": 216
+        },
+        {
+          "id": 262,
+          "selling_price": 349,
+          "max_retail_price": 399,
+          "amount": 40,
+          "unit": "piece",
+          "quantity_in_inventory": 150,
+          "product": 216
+        }
+      ],
+      "updated_on": "2024-06-24T12:53:41.995873Z",
+      "adding_date": "2024-06-24T12:53:41.995828Z"
+    },
+    {
+      "id": 217,
+      "display_id": 16,
+      "owner": 1087,
+      "name": "Bose QuietComfort 35 II",
+      "category": "Headphones",
+      "characteristics": "Comfortable and quiet",
+      "features": "Noise-cancelling, 20-hour battery life",
+      "brand": "Bose",
+      "sku": [
+        {
+          "id": 263,
+          "selling_price": 299,
+          "max_retail_price": 349,
+          "amount": 35,
+          "unit": "piece",
+          "quantity_in_inventory": 100,
+          "product": 217
+        },
+        {
+          "id": 264,
+          "selling_price": 299,
+          "max_retail_price": 349,
+          "amount": 35,
+          "unit": "piece",
+          "quantity_in_inventory": 100,
+          "product": 217
+        }
+      ],
+      "updated_on": "2024-06-24T12:54:41.995873Z",
+      "adding_date": "2024-06-24T12:54:41.995828Z"
+    },
+    {
+      "id": 218,
+      "display_id": 17,
+      "owner": 1088,
+      "name": "Google Pixel 6",
+      "category": "Smartphone",
+      "characteristics": "Cutting-edge camera and software",
+      "features": "Tensor chip, 5G",
+      "brand": "Google",
+      "sku": [
+        {
+          "id": 265,
+          "selling_price": 599,
+          "max_retail_price": 699,
+          "amount": 50,
+          "unit": "piece",
+          "quantity_in_inventory": 200,
+          "product": 218
+        },
+        {
+          "id": 266,
+          "selling_price": 599,
+          "max_retail_price": 699,
+          "amount": 50,
+          "unit": "piece",
+          "quantity_in_inventory": 200,
+          "product": 218
+        }
+      ],
+      "updated_on": "2024-06-24T12:55:41.995873Z",
+      "adding_date": "2024-06-24T12:55:41.995828Z"
+    }
+  ]
+  

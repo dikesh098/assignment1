@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "customer": 11908,
+      "customer_profile": {
+        "id": 11908,
+        "name": "Ram",
+        "color": [182, 73, 99],
+        "email": "ram@example.com",
+        "pincode": "400001",
+        "location_name": "Mumbai, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 2,
+      "customer": 11909,
+      "customer_profile": {
+        "id": 11909,
+        "name": "Shyam",
+        "color": [255, 0, 0],
+        "email": "shyam@example.com",
+        "pincode": "400002",
+        "location_name": "Pune, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 3,
+      "customer": 11910,
+      "customer_profile": {
+        "id": 11910,
+        "name": "Sita",
+        "color": [0, 255, 0],
+        "email": "sita@example.com",
+        "pincode": "400003",
+        "location_name": "Nagpur, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 4,
+      "customer": 11911,
+      "customer_profile": {
+        "id": 11911,
+        "name": "Gita",
+        "color": [0, 0, 255],
+        "email": "gita@example.com",
+        "pincode": "400004",
+        "location_name": "Nashik, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 5,
+      "customer": 11912,
+      "customer_profile": {
+        "id": 11912,
+        "name": "Hari",
+        "color": [255, 255, 0],
+        "email": "hari@example.com",
+        "pincode": "400005",
+        "location_name": "Aurangabad, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 6,
+      "customer": 11913,
+      "customer_profile": {
+        "id": 11913,
+        "name": "Ravi",
+        "color": [0, 255, 255],
+        "email": "ravi@example.com",
+        "pincode": "400006",
+        "location_name": "Kolhapur, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 7,
+      "customer": 11914,
+      "customer_profile": {
+        "id": 11914,
+        "name": "Mohan",
+        "color": [255, 0, 255],
+        "email": "mohan@example.com",
+        "pincode": "400007",
+        "location_name": "Solapur, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 8,
+      "customer": 11915,
+      "customer_profile": {
+        "id": 11915,
+        "name": "Rakesh",
+        "color": [128, 0, 128],
+        "email": "rakesh@example.com",
+        "pincode": "400008",
+        "location_name": "Thane, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 9,
+      "customer": 11916,
+      "customer_profile": {
+        "id": 11916,
+        "name": "Anil",
+        "color": [128, 128, 0],
+        "email": "anil@example.com",
+        "pincode": "400009",
+        "location_name": "Mumbai, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 10,
+      "customer": 11917,
+      "customer_profile": {
+        "id": 11917,
+        "name": "Sunil",
+        "color": [0, 128, 128],
+        "email": "sunil@example.com",
+        "pincode": "400010",
+        "location_name": "Mumbai, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    }
+  ]
+  

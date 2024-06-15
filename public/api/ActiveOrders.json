@@ -1,0 +1,28 @@
+{
+  "activeOrders": [
+    { "id": 1, "customerName": "Ram", "price": 100, "lastModified": "01/6/2024 (10:00 AM)" },
+    { "id": 2, "customerName": "Smith", "price": 2110, "lastModified": "01/6/2024 (10:15 AM)" },
+    { "id": 3, "customerName": "Michael Johnson", "price": 2102, "lastModified": "01/6/2024 (10:30 AM)" },
+    { "id": 4, "customerName": "Davis", "price": 2103, "lastModified": "01/6/2024 (10:45 AM)" },
+    { "id": 5, "customerName": "David Miller", "price": 2140, "lastModified": "01/6/2024 (11:00 AM)" },
+    { "id": 6, "customerName": "Sara taylor", "price": 2150, "lastModified": "01/6/2024 (11:15 AM)" },
+    { "id": 7, "customerName": "Chris gayle", "price": 2160, "lastModified": "01/6/2024 (11:30 AM)" },
+    { "id": 8, "customerName": "brate Lee", "price": 2170, "lastModified": "01/6/2024 (11:45 AM)" },
+    { "id": 9, "customerName": "Joshua little", "price": 2108, "lastModified": "01/6/2024 (12:00 PM)" },
+    { "id": 10, "customerName": "Sophia ", "price": 2190, "lastModified": "01/6/2024 (12:15 PM)" },
+    { "id": 15, "customerName": "James Anderson", "price": 15034, "lastModified": "01/6/2024 (12:30 PM)" }
+  ],
+  "completedOrders": [
+    { "id": 1, "customerName": "virat", "price": 100, "lastModified": "31/6/2024 (09:00 AM)" },
+    { "id": 2, "customerName": "Liam ", "price": 210, "lastModified": "31/6/2024 (09:15 AM)" },
+    { "id": 3, "customerName": " Jackson", "price": 2102, "lastModified": "31/6/2024 (09:30 AM)" },
+    { "id": 4, "customerName": "rohit", "price": 2103, "lastModified": "31/6/2024 (09:45 AM)" },
+    { "id": 5, "customerName": "rishab", "price": 2140, "lastModified": "31/6/2024 (10:00 AM)" },
+    { "id": 6, "customerName": "Martin", "price": 2150, "lastModified": "31/6/2024 (10:15 AM)" },
+    { "id": 7, "customerName": "axar", "price": 2160, "lastModified": "31/6/2024 (10:30 AM)" },
+    { "id": 8, "customerName": "ab", "price": 2170, "lastModified": "31/6/2024 (10:45 AM)" },
+    { "id": 9, "customerName": "yuvraj", "price": 2108, "lastModified": "31/6/2024 (11:00 AM)" },
+    { "id": 10, "customerName": "olli Robinson", "price": 2190, "lastModified": "31/6/2024 (11:15 AM)" },
+    { "id": 15, "customerName": "michakle Clark", "price": 150, "lastModified": "31/6/2024 (11:30 AM)" }
+  ]
+}
